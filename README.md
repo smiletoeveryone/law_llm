@@ -14,5 +14,12 @@ This is a Python LLM project for chatting about lawsuits with domain knowledge f
 3. Install Ollama and pull a model, e.g., `ollama pull llama2`
 4. Run the app: `streamlit run src/app.py`
 
-## Usage
-Place PDF files in the `pdfs/` folder for domain knowledge embedding. Then, ask questions about lawsuits in the chat interface.
+## Demo
+A live demo is available at [Streamlit Cloud Link](https://your-app.streamlit.app) (replace with actual link after deployment).
+
+## Deployment
+To deploy the app:
+1. Sign up for [Streamlit Cloud](https://streamlit.io/cloud).
+2. Connect your GitHub repository.
+3. Deploy the app from `src/app.py`.
+4. Share the public link for the demo.
